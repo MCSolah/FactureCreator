@@ -1,0 +1,14 @@
+/Users/Kylian/Downloads/Facture Creator/FactureCreator/obj/Debug/net6.0/FactureCreator.csproj.AssemblyReference.cache
+/Users/Kylian/Downloads/Facture Creator/FactureCreator/obj/Debug/net6.0/FactureCreator.AboutBox.resources
+/Users/Kylian/Downloads/Facture Creator/FactureCreator/obj/Debug/net6.0/FactureCreator.MainFacture.resources
+/Users/Kylian/Downloads/Facture Creator/FactureCreator/obj/Debug/net6.0/FactureCreator.Properties.Resources.resources
+/Users/Kylian/Downloads/Facture Creator/FactureCreator/obj/Debug/net6.0/FactureCreator.csproj.GenerateResource.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.csproj.AssemblyReference.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.AboutBox.resources
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.MainFacture.resources
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.Properties.Resources.resources
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.csproj.GenerateResource.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.AssemblyInfoInputs.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.AssemblyInfo.cs
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0\FactureCreator.csproj.CoreCompileInputs.cache

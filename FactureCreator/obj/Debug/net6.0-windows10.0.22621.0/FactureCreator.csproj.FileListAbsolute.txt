@@ -1,0 +1,96 @@
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.AssemblyReference.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.AboutBox.resources
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.MainFacture.resources
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.Properties.Resources.resources
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.GenerateResource.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.CoreCompileInputs.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.ResolveComReference.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.exe
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll.config
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.deps.json
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.runtimeconfig.json
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.pdb
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Office.Interop.Excel.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Office.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\ICSharpCode.SharpZipLib.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OOXML.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXml4Net.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXmlFormats.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.xml
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OOXML.xml
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXml4Net.xml
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.CopyComplete
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\refint\FactureCreator.dll
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.pdb
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.genruntimeconfig.cache
+D:\Downloads\Facture Creator 2\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\ref\FactureCreator.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.exe
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll.config
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.deps.json
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.runtimeconfig.json
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.pdb
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Office.Interop.Excel.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Office.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\ICSharpCode.SharpZipLib.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OOXML.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXml4Net.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXmlFormats.dll
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.xml
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OOXML.xml
+D:\Downloads\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXml4Net.xml
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.AssemblyReference.cache
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.ResolveComReference.cache
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.AboutBox.resources
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.MainFacture.resources
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.Properties.Resources.resources
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.GenerateResource.cache
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.CoreCompileInputs.cache
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.CopyComplete
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\refint\FactureCreator.dll
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.pdb
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.genruntimeconfig.cache
+D:\Downloads\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\ref\FactureCreator.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.AssemblyReference.cache
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.ResolveComReference.cache
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.AboutBox.resources
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.MainFacture.resources
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.Properties.Resources.resources
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.GenerateResource.cache
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.CoreCompileInputs.cache
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\refint\FactureCreator.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.pdb
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.exe
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll.config
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.deps.json
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.runtimeconfig.json
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\FactureCreator.pdb
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Office.Interop.Excel.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Office.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\ICSharpCode.SharpZipLib.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OOXML.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXml4Net.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXmlFormats.dll
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.xml
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OOXML.xml
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\bin\Debug\net6.0-windows10.0.22621.0\NPOI.OpenXml4Net.xml
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.csproj.CopyComplete
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\FactureCreator.genruntimeconfig.cache
+D:\Desktop\FACTURATION\Facture Creator\FactureCreator\obj\Debug\net6.0-windows10.0.22621.0\ref\FactureCreator.dll
